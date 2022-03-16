@@ -38,4 +38,7 @@ public class nathan {
         this.valor1 = valor1;
         this.valor2 = valor2;
     }
+    void CalculoArea(valor1, valor2){
+
+    }
 }
