@@ -1,4 +1,8 @@
 public class nathan {
+    /**
+     * Clase nathan cuy proposito es aprobar el examen de ets
+     * @author Nathan Merlin Morawe
+     */
     String tipo;
     Integer valor1;
     Integer valor2;
@@ -38,6 +42,10 @@ public class nathan {
         this.valor1 = valor1;
         this.valor2 = valor2;
     }
+
+    /**
+     * Metodo void en el que se calculan las areas
+     */
     void CalculoArea(valor1, valor2){
 
     }
